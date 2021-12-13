@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrs1rules
+- 👋 Hi, I’m jrs1rules
 - 👀 I’m interested in  Coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on blooket hacks
